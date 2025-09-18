@@ -1,0 +1,22 @@
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\bin\Debug\net8.0\klasy.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\bin\Debug\net8.0\klasy.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\bin\Debug\net8.0\klasy.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\klasy.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\klasy.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\klasy.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\klasy.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\klasy.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\refint\klasy.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\klasy.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\ref\klasy.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\bin\Debug\net8.0\klasy.deps.json
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\bin\Debug\net8.0\klasy.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\bin\Debug\net8.0\klasy.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\klasy.GeneratedMSBuildEditorConfig.editorconfig
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\klasy.AssemblyInfoInputs.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\klasy.AssemblyInfo.cs
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\klasy.csproj.CoreCompileInputs.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\klasy.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\refint\klasy.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\klasy.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\ref\klasy.dll

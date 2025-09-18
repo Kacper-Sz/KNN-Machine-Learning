@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klasy", "zajecia\klasy.csproj", "{34EA2828-4EDE-4DC0-A9D9-63391A3988B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uczenie_maszynowe", "uczenie_maszynowe\uczenie_maszynowe.csproj", "{09AC3A2A-6BC8-4F31-BBB5-D9B568504388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EA2828-4EDE-4DC0-A9D9-63391A3988B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EA2828-4EDE-4DC0-A9D9-63391A3988B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EA2828-4EDE-4DC0-A9D9-63391A3988B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EA2828-4EDE-4DC0-A9D9-63391A3988B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09AC3A2A-6BC8-4F31-BBB5-D9B568504388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AC3A2A-6BC8-4F31-BBB5-D9B568504388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AC3A2A-6BC8-4F31-BBB5-D9B568504388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AC3A2A-6BC8-4F31-BBB5-D9B568504388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FEAFF1-72D8-44AC-98D6-CCA38AA8F326}
+	EndGlobalSection
+EndGlobal

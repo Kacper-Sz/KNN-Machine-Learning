@@ -1,0 +1,92 @@
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\zajecia.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\zajecia.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\bin\Debug\net8.0\zajecia.exe
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\bin\Debug\net8.0\zajecia.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\bin\Debug\net8.0\zajecia.runtimeconfig.json
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\bin\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\bin\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\refint\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\zajecia.genruntimeconfig.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.03.18\zajecia\zajecia\obj\Debug\net8.0\ref\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\bin\Debug\net8.0\zajecia.exe
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\bin\Debug\net8.0\zajecia.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\bin\Debug\net8.0\zajecia.runtimeconfig.json
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\bin\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\bin\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\zajecia.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\zajecia.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\refint\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\zajecia.genruntimeconfig.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.03.25\zajecia\zajecia\obj\Debug\net8.0\ref\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\zajecia.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\zajecia.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\refint\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\bin\Debug\net8.0\zajecia.exe
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\bin\Debug\net8.0\zajecia.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\bin\Debug\net8.0\zajecia.runtimeconfig.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\bin\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\bin\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\zajecia.genruntimeconfig.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01\zajecia\zajecia\obj\Debug\net8.0\ref\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.exe
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.runtimeconfig.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\refint\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.genruntimeconfig.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.01 - dodanie knn\zajecia\zajecia\obj\Debug\net8.0\ref\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\bin\Debug\net8.0\zajecia.exe
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\bin\Debug\net8.0\zajecia.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\bin\Debug\net8.0\zajecia.runtimeconfig.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\bin\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\bin\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\zajecia.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\zajecia.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\refint\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\zajecia.genruntimeconfig.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.08 - dodanie testuj\zajecia\zajecia\obj\Debug\net8.0\ref\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\refint\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\bin\Debug\net8.0\zajecia.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\zajecia\obj\Debug\net8.0\ref\zajecia.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\bin\Debug\net8.0\zajecia.deps.json
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\bin\Debug\net8.0\zajecia.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\bin\Debug\net8.0\zajecia.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\zajecia.GeneratedMSBuildEditorConfig.editorconfig
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfoInputs.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\zajecia.AssemblyInfo.cs
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\zajecia.csproj.CoreCompileInputs.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\zajecia.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\refint\zajecia.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\zajecia.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\zajecia\obj\Debug\net8.0\ref\zajecia.dll

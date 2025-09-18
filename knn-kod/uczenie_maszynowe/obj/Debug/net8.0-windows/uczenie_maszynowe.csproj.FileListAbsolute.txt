@@ -1,0 +1,40 @@
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.exe
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.deps.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.runtimeconfig.json
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.csproj.AssemblyReference.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.Form1.resources
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.csproj.GenerateResource.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.AssemblyInfoInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.AssemblyInfo.cs
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.csproj.CoreCompileInputs.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_.222FFA5A.Up2Date
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\refint\uczenie_maszynowe.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.pdb
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.genruntimeconfig.cache
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\obj\Debug\net8.0-windows\ref\uczenie_maszynowe.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\bin\Debug\net8.0-windows\klasy.dll
+D:\studia\drugi rok\semestr II\probiekt\2025.04.15 - dodanie gui do knn\zajecia\uczenie_maszynowe\bin\Debug\net8.0-windows\klasy.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.exe
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.deps.json
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.runtimeconfig.json
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\bin\Debug\net8.0-windows\uczenie_maszynowe.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\bin\Debug\net8.0-windows\klasy.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\bin\Debug\net8.0-windows\klasy.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.csproj.AssemblyReference.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.csproj.GenerateResource.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.AssemblyInfoInputs.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.AssemblyInfo.cs
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.csproj.CoreCompileInputs.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_.222FFA5A.Up2Date
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\refint\uczenie_maszynowe.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.pdb
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.genruntimeconfig.cache
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\ref\uczenie_maszynowe.dll
+D:\!MOJE projekty na GITHUB\knn\knn-kod\uczenie_maszynowe\obj\Debug\net8.0-windows\uczenie_maszynowe.Machine_Learning.resources
